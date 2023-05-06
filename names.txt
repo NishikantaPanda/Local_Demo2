@@ -1,1 +1,5 @@
-checking changes
+<<<<<<< HEAD
+
+I have check both files and avoided conflict.
+This is a new file without conflict.
+>>>>>>> newBranch
